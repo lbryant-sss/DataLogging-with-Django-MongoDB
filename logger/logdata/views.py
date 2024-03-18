@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse('Long Day trying a template!!')
+    return HttpResponse('Long Few Minutes trying a template!!')
